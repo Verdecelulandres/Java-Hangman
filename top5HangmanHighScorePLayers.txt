@@ -1,0 +1,7 @@
+test4 830
+test 130
+test2 460
+test5 50
+test3 40
+hugo 10
+norroea 0
